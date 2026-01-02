@@ -109,7 +109,7 @@ Manage code versions, collaborate with teams, and track changes in your projects
 
 ---
 
-**✅ Want a structured DevOps roadmap?**  
+**✅ Want a structured Generative AI Engineer roadmap?**  
 Explore the interactive visual roadmap with free resources here:  
 👉 [Gen AI Roadmap](https://codersnote.com/roadmap/outline/genaiengineer)
 
